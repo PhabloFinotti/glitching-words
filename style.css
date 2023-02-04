@@ -1,0 +1,13 @@
+body {
+  background-color: #000;
+  color: #fff;
+  font-family: 'Space Mono', sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+.glitching-letters {
+  font-size: 40px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
